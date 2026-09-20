@@ -8,15 +8,6 @@ A major focus of this project was creating a consistent design system using Divi
 
 <img width="1897" height="869" alt="image" src="https://github.com/user-attachments/assets/b8c3266c-76dc-44ee-a7e4-9e8035983b4a" />
 
-📌 **About The Project**
-----------------------
-
-This project is a professional interior design website developed using WordPress and Divi 4.
-
-The website focuses on presenting interior design services and projects with a premium visual experience while maintaining consistency across all pages.
-
-Instead of individually styling every element, Divi Presets were created and reused throughout the website to maintain a consistent design system and make future design changes easier to manage.
-
 ✨ Key Features
 ----------------------
 
